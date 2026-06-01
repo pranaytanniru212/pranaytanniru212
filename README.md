@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **VENKATA SUBBARAO**, an aspiring **Python Developer** from India.
+I'm **TANNIRU PRANAY**, an aspiring **Python Developer** from India.
 
 I’m currently learning and building projects with:
 
@@ -34,7 +34,7 @@ I’m currently learning and building projects with:
 
 ## 📌 Projects
 
-- 🗄️ **Student-Information-Management-System**
+- 🗄️ **Healt care Management System**
 - 🐍 **django-currency-converter**
 - ☁️ **AWS Learning Projects** *(Coming Soon)*
 
@@ -42,8 +42,8 @@ I’m currently learning and building projects with:
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ventrapragada-venkata-subbarao/
-- GitHub: [VENKATASUBBARAO13](https://github.com/VENKATASUBBARAO13)
+- LinkedIn: https://www.linkedin.com/in/pranay-tanniru-b88a70352
+- GitHub: [pranaytanniru212](https://github.com/pranaytanniru212)
 
 ---
 
