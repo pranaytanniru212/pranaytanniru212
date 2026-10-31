@@ -6,38 +6,40 @@ I’m currently learning and building projects with:
 
 - 🐍 Python
 - 🗄️ MySQL
-- 🐍 Django
-- 🐍 Django REST Framework (DRF)
-- 📊 Data Analysis
-
+- 🌿 Django
+- 🔗 Django REST Framework (DRF)
+- 🤖 AI/ML
+- ☁️ AWS 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **AWS, Linux, MySQL, and Python**
+- 🌱 Currently learning **Python, MySQL, Django, Django REST Framework (DRF), Pyspark, AI/ML and AWS**
 - 🧠 I believe in learning by building projects
-- 🗄️ Completed **MySQL 30 Days Challenge**
-- 🐍 Completed **Python 30 Days Challenge**
-- 🎯 Goal: Become a skilled **Cloud Engineer**
+- 🐍 Completed **Python Full Stack Development – CVCorp**
+- 🤖 Completed **AI-Powered Document Question Answering System (RAG)**
+- 🎯 Goal: Become a skilled **Software Engineer**
 - 📌 Sharing my learning journey through GitHub and LinkedIn
 
 ---
 
 ## 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
-![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+- 🐍 Python – Programming and scripting
+- 🗄️ MySQL – Database management
+- 🌿 Django – Backend web development
+- 🔗 Django REST Framework – RESTful API development
+- 🤖 AI/ML – Artificial Intelligence and Machine Learning
+- ☁️ AWS – Cloud computing and deployment
+- 🔧 GitHub – Version control and collaboration
 
 ---
 
 ## 📌 Projects
 
-- 🗄️ **Healt care Management System**
-- 🐍 **django-currency-converter**
-- ☁️ **AWS Learning Projects** *(Coming Soon)*
+- 🌿**Hospital-booking-appointment-using-django.**
+- 🐍 **Smart Home Service Platform**
+- ☁️ **AI-Powered Document Question Answering System (RAG)**
 
 ---
 
