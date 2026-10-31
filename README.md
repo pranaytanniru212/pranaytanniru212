@@ -6,7 +6,8 @@ I’m currently learning and building projects with:
 
 - 🐍 Python
 - 🗄️ MySQL
-- 🐧 Linux
+- 🐍 Django
+- 🐍 Django REST Framework (DRF)
 - 📊 Data Analysis
 
 ---
